@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3{
+    color: #66BFBF;
+}
+p{
+    color: #40514E;
+
+}
+hr{
+    dispaly:none;
+    border-style: dotted;
+    border-bottom: 0;
+    width: 9px;
+    border-color: #40514E;
+}
+span{
+    text-decoration: underline;
+}
+.footer_div{
+    padding:50px 50px;
+    
+    
+    margin:90px;
+    background-color: #66BFBF;  
+}
+a{
+    color: #40514E;
+    padding: 120px;
+    margin:30px;
+    text-decoration: none;
+}
+a:hover{
+    color:#834b0b;
+
+}
+.copyright{
+    color: #EAF6F6;
+}
+#code_pic{
+    float:left;
+}
+#chilli_pic{
+float: right;
+}
+
+p{
+    margin: auto;
+    width: 300px ;
+    
+}
+.btn{
+background-color: #66BFBF;
+}
+
